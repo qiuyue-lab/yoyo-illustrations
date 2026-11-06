@@ -6,7 +6,11 @@
 
 视觉风格继承 [Ian Xiaohei Illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)，IP 角色替换为 TeacherYo 的 YoYo 小人。
 
-这是独立 skill 仓库：`SKILL.md` 在仓库根目录，skills.sh 和其他 agent 站点可以直接读到。
+这是独立 skill 仓库：`SKILL.md` 在仓库根目录，skills.sh 和会克隆仓库的 agent 可以直接读到。
+
+Gemini 这类聊天产品打不开 GitHub 仓库页面。给它们看这一页，规范和角色图都在页面正文里：
+
+https://qiuyue-lab.github.io/yoyo-illustrations/
 
 ## 安装
 
